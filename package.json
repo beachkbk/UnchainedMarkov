@@ -1,11 +1,11 @@
 {
-    "name": "TailwindStarterTemplate",
+    "name": "TailwindRithmmTemplate",
     "version": "1.0.0",
-    "description": "Tailwind Starter Template",
+    "description": "Tailwind Rithmm Template",
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/tailwindtoolbox/StarterTemplate.git"
+        "url": "https://github.com/beachkbk/StarterTemplate.git"
     },
     "main": "postcss.config.js",
     "dependencies": {
